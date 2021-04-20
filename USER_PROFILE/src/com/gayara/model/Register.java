@@ -18,7 +18,7 @@ public class Register {
 	 }
 	 catch(Exception e)
 	 {
-		 System.out.print("Not connected");
+		 System.out.print("could not connected");
 	 }
 
 	 return con;
