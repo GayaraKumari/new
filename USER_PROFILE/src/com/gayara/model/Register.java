@@ -3,7 +3,7 @@ import java.sql.*;
 public class Register {
 	
 	
-	
+	//bd
 	public static Connection connect()
 	{
 	 Connection con = null;
